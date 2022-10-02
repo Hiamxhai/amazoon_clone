@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671818082702",
+    "project_id": "clone-bd4c3",
+    "storage_bucket": "clone-bd4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671818082702:android:2632860ca96f3ce5701cdf",
+        "android_client_info": {
+          "package_name": "aadhiarun.app.amazoon_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671818082702-mvivc38f3tdejp004jka1hev3a5qn6pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdDGJXkor_gEtFKD6gAY8kZM2lbPh57g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671818082702-mvivc38f3tdejp004jka1hev3a5qn6pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
